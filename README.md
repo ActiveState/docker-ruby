@@ -4,7 +4,7 @@ Unofficial ruby client for [docker](https://github.com/dotcloud/docker) (work in
 
 ## FAQ
 
-### Q: Is this the de facto ruby client for Docker?
+### Q: Is this the default ruby client for Docker?
 
 Possibly not; the docker team is considering writing a official client based on the [upcoming HTTP API](https://github.com/dotcloud/docker/issues/21). 
 
