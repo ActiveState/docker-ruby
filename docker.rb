@@ -1,6 +1,9 @@
 # This module provides a ruby client API for docker. The docker API is
 # not complete; see https://github.com/dotcloud/docker/issues/21
 
+# Copyright (c) 2013 ActiveState Software Inc.
+
+
 require 'socket'
 
 # FIXME: use eventmachine for non-blocking IO.
