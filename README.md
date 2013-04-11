@@ -10,4 +10,4 @@ Possibly not; the docker team is considering writing a official client based on 
 
 ### Q: Why does it exist then?
 
-Because as of now, docker-ruby is the only way to talk to docker without having to shell-out to the command-line client (which doesn't always work).
+Because as of now, docker-ruby is the only way to talk to docker from Ruby without having to shell-out to the command-line client (which doesn't always work).
